@@ -2,11 +2,6 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    color: $mainRed;
-}
-
 img {
     max-width: 100%;
     height: auto;
